@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: aliceblue;
+    border-radius: 2px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+margin: 2% 0;
+border-radius: 100px;
+}
+.round{
+margin: 2% 0;
+font-size: large;
+    text-align: center;
+}
+
+.btn{
+    border-radius: 20px;
+    background-color: grey;
+    border-color: grey;
+  }
+  .image{
+    border-radius: 20px;
+  }
+  
